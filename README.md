@@ -1,0 +1,2 @@
+# EuclideanRMI
+Java RMI example
